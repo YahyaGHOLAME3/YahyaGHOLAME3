@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @YahyaGHOLAME3
+- 👀 I’m interested in Coding in all programming languages
+- 🌱 I’m currently learning C/javascript/python
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me : y.gholam@aui.ma
