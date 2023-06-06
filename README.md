@@ -1,7 +1,7 @@
 
 # About me
 
-I will try to put in this repo all my projects done during my bachelore
+I will try to put in this repo all my projects done during my bachelor's degree in computer science
 
 
 I am currently an undergraduate student in AlAkhawayn University in Ifrane
