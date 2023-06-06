@@ -1,5 +1,5 @@
 
-# My projects
+# About me
 
 I will try to put in this repo all my projects done during my bachelore
 
