@@ -17,5 +17,5 @@ Programming languages that I master or still learning
 - Java
 - Python
 - SQL
-- HTML & CSC
+- HTML & CSS
 - Javascript
