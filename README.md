@@ -3,14 +3,14 @@
 ## Offensive Security
 | | | | | | |
 |--|--|--|--|--|--|
-| <a href="https://portswigger.net/burp"><img src="assets/icons/burpsuite.svg" width="40" alt="Burp Suite"/></a> | <a href="https://nmap.org/"><img src="assets/icons/nmap.svg" width="40" alt="Nmap"/></a> | <a href="https://owasp.org/www-project-top-ten/"><img src="assets/icons/nikto.svg" width="40" alt="Nikto"/></a> | <a href="https://sqlmap.org/"><img src="assets/icons/sqlmap.svg" width="40" alt="sqlmap"/></a> | <a href="https://www.metasploit.com/"><img src="assets/icons/metasploit.svg" width="40" alt="Metasploit"/></a> | <a href="https://www.wireshark.org/"><img src="assets/icons/wireshark.svg" width="40" alt="Wireshark"/></a> |
+| <a href="https://portswigger.net/burp"><img src="assets/icons/burpsuite.svg" width="40" alt="Burp Suite"/></a> | <a href="https://nmap.org/"><img src="assets/icons/nmap.svg" width="40" alt="Nmap"/></a> | <a href="https://owasp.org/www-project-top-ten/"><img src="assets/icons/nikto.svg" width="40" alt="Nikto"/></a> | <a href="https://sqlmap.org/"><img src="assets/icons/sqlmap.png" width="40" alt="sqlmap"/></a> | <a href="https://www.metasploit.com/"><img src="assets/icons/metasploit.svg" width="40" alt="Metasploit"/></a> | <a href="https://www.wireshark.org/"><img src="assets/icons/wireshark.svg" width="40" alt="Wireshark"/></a> |
 
 ---
 
 ## Identity & Active Directory
 | | | | |
 |--|--|--|--|
-| <a href="https://github.com/SpecterOps/BloodHound"><img src="assets/icons/bloodhound.svg" width="40" alt="BloodHound"/></a> | <a href="https://github.com/SpecterOps/SharpHound"><img src="assets/icons/sharphound.svg" width="40" alt="SharpHound"/></a> | <a href="https://github.com/GhostPack/Rubeus"><img src="assets/icons/rubeus.svg" width="40" alt="Rubeus"/></a> | <a href="https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon"><img src="assets/icons/powerview.svg" width="40" alt="PowerView"/></a> |
+| <a href="https://github.com/SpecterOps/BloodHound"><img src="assets/icons/bloodhound.png" width="40" alt="BloodHound"/></a> | <a href="https://github.com/SpecterOps/SharpHound"><img src="assets/icons/sharphound.png" width="40" alt="SharpHound"/></a> | <a href="https://github.com/GhostPack/Rubeus"><img src="assets/icons/rubeus.png" width="40" alt="Rubeus"/></a> | <a href="https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon"><img src="assets/icons/powerview.png" width="40" alt="PowerView"/></a> |
 
 ---
 
@@ -42,6 +42,13 @@
 
 ---
 
+## CI/CD & Supply Chain
+| | | |
+|--|--|--|
+| <a href="https://github.com/features/actions"><img src="assets/icons/githubactions.svg" width="40" alt="GitHub Actions"/></a> | <a href="https://docs.gitlab.com/ee/ci/"><img src="assets/icons/gitlabci.svg" width="40" alt="GitLab CI"/></a> | <a href="https://www.jenkins.io/"><img src="assets/icons/jenkins.svg" width="40" alt="Jenkins"/></a> |
+
+---
+
 ## Web & App Stack
 | | | | | | |
 |--|--|--|--|--|--|
@@ -59,14 +66,14 @@
 ## Cloud Security
 | | | |
 |--|--|--|
-| <a href="https://aws.amazon.com/iam/"><img src="assets/icons/iam.svg" width="40" alt="IAM"/></a> | <a href="https://www.terraform.io/"><img src="assets/icons/terraform.svg" width="40" alt="Terraform"/></a> | <a href="https://aws.amazon.com/organizations/"><img src="assets/icons/awsorganizations.svg" width="40" alt="AWS Organizations"/></a> |
+| <a href="https://aws.amazon.com/iam/"><img src="assets/icons/iam.png" width="40" alt="IAM"/></a> | <a href="https://www.terraform.io/"><img src="assets/icons/terraform.svg" width="40" alt="Terraform"/></a> | <a href="https://aws.amazon.com/organizations/"><img src="assets/icons/awsorganizations.png" width="40" alt="AWS Organizations"/></a> |
 
 ---
 
 ## Networking
 | | | | | | |
 |--|--|--|--|--|--|
-| <a href="https://en.wikipedia.org/wiki/Internet_protocol_suite"><img src="assets/icons/tcpip.svg" width="40" alt="TCP/IP"/></a> | <a href="https://en.wikipedia.org/wiki/Domain_Name_System"><img src="assets/icons/dns.svg" width="40" alt="DNS"/></a> | <a href="https://developer.mozilla.org/docs/Web/HTTP"><img src="assets/icons/http.svg" width="40" alt="HTTP/S"/></a> | <a href="https://wiki.wireshark.org/SMB"><img src="assets/icons/smb.svg" width="40" alt="SMB"/></a> | <a href="https://ldap.com/"><img src="assets/icons/ldap.svg" width="40" alt="LDAP"/></a> | <a href="https://web.mit.edu/kerberos/"><img src="assets/icons/kerberos.svg" width="40" alt="Kerberos"/></a> |
+| <a href="https://en.wikipedia.org/wiki/Internet_protocol_suite"><img src="assets/icons/tcpip.png" width="40" alt="TCP/IP"/></a> | <a href="https://en.wikipedia.org/wiki/Domain_Name_System"><img src="assets/icons/dns.png" width="40" alt="DNS"/></a> | <a href="https://developer.mozilla.org/docs/Web/HTTP"><img src="assets/icons/http.png" width="40" alt="HTTP/S"/></a> | <a href="https://wiki.wireshark.org/SMB"><img src="assets/icons/smb.png" width="40" alt="SMB"/></a> | <a href="https://ldap.com/"><img src="assets/icons/ldap.png" width="40" alt="LDAP"/></a> | <a href="https://web.mit.edu/kerberos/"><img src="assets/icons/kerberos.png" width="40" alt="Kerberos"/></a> |
 
 ---
 
@@ -80,7 +87,7 @@
 ## Detection / Defensive Tooling
 | | |
 |--|--|
-| <a href="https://virustotal.github.io/yara/"><img src="assets/icons/yara.svg" width="40" alt="YARA"/></a> | <a href="https://www.elastic.co/elastic-stack"><img src="assets/icons/elk.svg" width="40" alt="ELK"/></a> |
+| <a href="https://virustotal.github.io/yara/"><img src="assets/icons/yara.png" width="40" alt="YARA"/></a> | <a href="https://www.elastic.co/elastic-stack"><img src="assets/icons/elk.svg" width="40" alt="ELK"/></a> |
 
 ---
 
