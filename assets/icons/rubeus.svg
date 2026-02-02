@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="80" viewBox="0 0 200 80" role="img" aria-label="Rubeus">
+<rect width="200" height="80" rx="12" ry="12" fill="#111111"/>
+<rect x="6" y="6" width="188" height="68" rx="10" ry="10" fill="none" stroke="#f3d312" stroke-width="4"/>
+<text x="100" y="50" text-anchor="middle" font-family="Montserrat,'Arial Black',sans-serif" font-size="24" font-weight="800" fill="#f3d312">Rubeus</text>
+</svg>

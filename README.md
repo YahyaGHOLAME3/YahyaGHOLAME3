@@ -3,14 +3,42 @@
 ## Offensive Security
 | | | | | | |
 |--|--|--|--|--|--|
-| <a href="https://en.wikipedia.org/wiki/Burp_Suite"><img src="assets/icons/burpsuite.svg" width="40" alt="Burp Suite"/></a> | <a href="https://nmap.org/"><img src="assets/icons/nmap.svg" width="40" alt="Nmap"/></a> | <a href="https://en.wikipedia.org/wiki/Nikto_Web_Scanner"><img src="assets/icons/nikto.svg" width="40" alt="Nikto"/></a> | <a href="https://sqlmap.org/"><img src="assets/icons/sqlmap.svg" width="40" alt="sqlmap"/></a> | <a href="https://www.metasploit.com/"><img src="assets/icons/metasploit.svg" width="40" alt="Metasploit"/></a> | <a href="https://www.wireshark.org/"><img src="assets/icons/wireshark.svg" width="40" alt="Wireshark"/></a> |
+| <a href="https://portswigger.net/burp"><img src="assets/icons/burpsuite.svg" width="40" alt="Burp Suite"/></a> | <a href="https://nmap.org/"><img src="assets/icons/nmap.svg" width="40" alt="Nmap"/></a> | <a href="https://owasp.org/www-project-top-ten/"><img src="assets/icons/nikto.svg" width="40" alt="Nikto"/></a> | <a href="https://sqlmap.org/"><img src="assets/icons/sqlmap.svg" width="40" alt="sqlmap"/></a> | <a href="https://www.metasploit.com/"><img src="assets/icons/metasploit.svg" width="40" alt="Metasploit"/></a> | <a href="https://www.wireshark.org/"><img src="assets/icons/wireshark.svg" width="40" alt="Wireshark"/></a> |
+
+---
+
+## Identity & Active Directory
+| | | | |
+|--|--|--|--|
+| <a href="https://github.com/SpecterOps/BloodHound"><img src="assets/icons/bloodhound.svg" width="40" alt="BloodHound"/></a> | <a href="https://github.com/SpecterOps/SharpHound"><img src="assets/icons/sharphound.svg" width="40" alt="SharpHound"/></a> | <a href="https://github.com/GhostPack/Rubeus"><img src="assets/icons/rubeus.svg" width="40" alt="Rubeus"/></a> | <a href="https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon"><img src="assets/icons/powerview.svg" width="40" alt="PowerView"/></a> |
+
+---
+
+## Exploit Development & Reverse Engineering
+| | | | |
+|--|--|--|--|
+|  |  |  |  |
+
+---
+
+## Operating Systems
+| | | | | |
+|--|--|--|--|--|
+| <a href="https://www.kali.org/"><img src="assets/icons/kalilinux.svg" width="40" alt="Kali Linux"/></a> | <a href="https://ubuntu.com/"><img src="assets/icons/ubuntu.svg" width="40" alt="Ubuntu"/></a> | <a href="https://www.debian.org/"><img src="assets/icons/debian.svg" width="40" alt="Debian"/></a> | <a href="https://www.microsoft.com/windows"><img src="assets/icons/windows.svg" width="40" alt="Windows"/></a> | <a href="https://www.microsoft.com/windows-server"><img src="assets/icons/windowsserver.svg" width="40" alt="Windows Server"/></a> |
 
 ---
 
 ## Programming Languages
-| | | | | | | |
-|--|--|--|--|--|--|--|
-| <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="40" alt="Python"/></a> | <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="assets/icons/c.svg" width="40" alt="C"/></a> | <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="assets/icons/cplusplus.svg" width="40" alt="C++"/></a> | <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="assets/icons/java.svg" width="40" alt="Java"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="40" alt="JavaScript"/></a> | <a href="https://www.gnu.org/software/bash/"><img src="assets/icons/bash.svg" width="40" alt="Bash"/></a> | <a href="https://go.dev/"><img src="assets/icons/go.svg" width="40" alt="Go"/></a> |
+| | | | | | |
+|--|--|--|--|--|--|
+| <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="40" alt="Python"/></a> | <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="assets/icons/c.svg" width="40" alt="C"/></a> | <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="assets/icons/cplusplus.svg" width="40" alt="C++"/></a> | <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="assets/icons/java.svg" width="40" alt="Java"/></a> | <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="40" alt="JavaScript"/></a> | <a href="https://go.dev/"><img src="assets/icons/go.svg" width="40" alt="Go"/></a> |
+
+---
+
+## Scripting & Automation
+| | | | |
+|--|--|--|--|
+| <a href="https://www.gnu.org/software/bash/"><img src="assets/icons/bash.svg" width="40" alt="Bash"/></a> | <a href="https://learn.microsoft.com/powershell/"><img src="assets/icons/powershell.svg" width="40" alt="PowerShell"/></a> | <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="40" alt="Python"/></a> | <a href="https://en.wikipedia.org/wiki/Cron"><img src="assets/icons/cron.svg" width="40" alt="Cron / Task Scheduler"/></a> |
 
 ---
 
@@ -24,14 +52,35 @@
 ## Cloud & Infrastructure
 | | | | | | | |
 |--|--|--|--|--|--|--|
-| <a href="https://aws.amazon.com/"><img src="assets/icons/aws.svg" width="40" alt="AWS"/></a> | <a href="https://cloud.google.com/"><img src="assets/icons/gcp.svg" width="40" alt="Google Cloud"/></a> | <a href="https://azure.microsoft.com/"><img src="assets/icons/azure.svg" width="40" alt="Azure"/></a> | <a href="https://www.docker.com/"><img src="assets/icons/docker.svg" width="40" alt="Docker"/></a> | <a href="https://kubernetes.io/"><img src="assets/icons/kubernetes.svg" width="40" alt="Kubernetes"/></a> | <a href="https://en.wikipedia.org/wiki/Linux"><img src="assets/icons/linux.svg" width="40" alt="Linux"/></a> | <a href="https://nginx.org/"><img src="assets/icons/nginx.svg" width="40" alt="Nginx"/></a> |
+| <a href="https://aws.amazon.com/"><img src="assets/icons/aws.svg" width="40" alt="AWS"/></a> | <a href="https://cloud.google.com/"><img src="assets/icons/gcp.svg" width="40" alt="Google Cloud"/></a> | <a href="https://azure.microsoft.com/"><img src="assets/icons/azure.svg" width="40" alt="Azure"/></a> | <a href="https://www.docker.com/"><img src="assets/icons/docker.svg" width="40" alt="Docker"/></a> | <a href="https://kubernetes.io/"><img src="assets/icons/kubernetes.svg" width="40" alt="Kubernetes"/></a> | <a href="https://www.kernel.org/"><img src="assets/icons/linux.svg" width="40" alt="Linux"/></a> | <a href="https://nginx.org/"><img src="assets/icons/nginx.svg" width="40" alt="Nginx"/></a> |
+
+---
+
+## Cloud Security
+| | | |
+|--|--|--|
+| <a href="https://aws.amazon.com/iam/"><img src="assets/icons/iam.svg" width="40" alt="IAM"/></a> | <a href="https://www.terraform.io/"><img src="assets/icons/terraform.svg" width="40" alt="Terraform"/></a> | <a href="https://aws.amazon.com/organizations/"><img src="assets/icons/awsorganizations.svg" width="40" alt="AWS Organizations"/></a> |
+
+---
+
+## Networking
+| | | | | | |
+|--|--|--|--|--|--|
+| <a href="https://en.wikipedia.org/wiki/Internet_protocol_suite"><img src="assets/icons/tcpip.svg" width="40" alt="TCP/IP"/></a> | <a href="https://en.wikipedia.org/wiki/Domain_Name_System"><img src="assets/icons/dns.svg" width="40" alt="DNS"/></a> | <a href="https://developer.mozilla.org/docs/Web/HTTP"><img src="assets/icons/http.svg" width="40" alt="HTTP/S"/></a> | <a href="https://wiki.wireshark.org/SMB"><img src="assets/icons/smb.svg" width="40" alt="SMB"/></a> | <a href="https://ldap.com/"><img src="assets/icons/ldap.svg" width="40" alt="LDAP"/></a> | <a href="https://web.mit.edu/kerberos/"><img src="assets/icons/kerberos.svg" width="40" alt="Kerberos"/></a> |
 
 ---
 
 ## Observability & DevOps
-| | | | | |
-|--|--|--|--|--|
-| <a href="https://grafana.com/"><img src="assets/icons/grafana.svg" width="40" alt="Grafana"/></a> | <a href="https://www.elastic.co/kibana"><img src="assets/icons/kibana.svg" width="40" alt="Kibana"/></a> | <a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="40" alt="Git"/></a> | <a href="https://github.com/"><img src="assets/icons/github.svg" width="40" alt="GitHub"/></a> | <a href="https://www.splunk.com/"><img src="assets/icons/splunk.svg" width="40" alt="Splunk"/></a> |
+| | | | |
+|--|--|--|--|
+| <a href="https://grafana.com/"><img src="assets/icons/grafana.svg" width="40" alt="Grafana"/></a> | <a href="https://www.elastic.co/kibana"><img src="assets/icons/kibana.svg" width="40" alt="Kibana"/></a> | <a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="40" alt="Git"/></a> | <a href="https://github.com/"><img src="assets/icons/github.svg" width="40" alt="GitHub"/></a> |
+
+---
+
+## Detection / Defensive Tooling
+| | |
+|--|--|
+| <a href="https://virustotal.github.io/yara/"><img src="assets/icons/yara.svg" width="40" alt="YARA"/></a> | <a href="https://www.elastic.co/elastic-stack"><img src="assets/icons/elk.svg" width="40" alt="ELK"/></a> |
 
 ---
 
