@@ -8,9 +8,9 @@
 ---
 
 ## Programming Languages
-| | | | | | |
-|--|--|--|--|--|--|
-| <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="40" alt="Python"/></a> | <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="assets/icons/c.svg" width="40" alt="C"/></a> | <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="assets/icons/cplusplus.svg" width="40" alt="C++"/></a> | <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="assets/icons/java.svg" width="40" alt="Java"/></a> | <a href="https://go.dev/"><img src="assets/icons/go.svg" width="40" alt="Go"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="40" alt="JavaScript"/></a> |
+| | | | | | | |
+|--|--|--|--|--|--|--|
+| <a href="https://www.python.org/"><img src="assets/icons/python.svg" width="40" alt="Python"/></a> | <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="assets/icons/c.svg" width="40" alt="C"/></a> | <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="assets/icons/cplusplus.svg" width="40" alt="C++"/></a> | <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"><img src="assets/icons/java.svg" width="40" alt="Java"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="40" alt="JavaScript"/></a> | <a href="https://www.gnu.org/software/bash/"><img src="assets/icons/bash.svg" width="40" alt="Bash"/></a> | <a href="https://go.dev/"><img src="assets/icons/go.svg" width="40" alt="Go"/></a> |
 
 ---
 

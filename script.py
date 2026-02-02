@@ -29,6 +29,7 @@ ICONS = {
     "cplusplus.svg": "https://cdn.simpleicons.org/cplusplus/00599C",
     "java.svg": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
     "javascript.svg": "https://cdn.simpleicons.org/javascript/F7DF1E",
+    "bash.svg": "https://cdn.simpleicons.org/gnubash/4EAA25",
     "go.svg": "https://cdn.simpleicons.org/go/00ADD8",
 
     # Systems / Infra
