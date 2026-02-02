@@ -37,6 +37,7 @@ ICONS = {
     "kubernetes.svg": "https://cdn.simpleicons.org/kubernetes/326CE5",
     "nginx.svg": "https://cdn.simpleicons.org/nginx/009639",
     "git.svg": "https://cdn.simpleicons.org/git/F05032",
+    "github.svg": "https://cdn.simpleicons.org/github/181717",
 
     # Cloud
     "aws.svg": "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
